@@ -1,4 +1,8 @@
 hola amigos
 ===========
 
-este es mi primer __wiki__
+# manudavo
+
+[Home](index.md)
+[About](about.md)
+[Download](download.md)
