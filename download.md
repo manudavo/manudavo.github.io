@@ -4,8 +4,9 @@ Aquí vas a poder descargarte el _software_ __Davo.exe__, una herramienta de tri
 
 y una línea nueva más
 
-Mírame [__Davo.exe__](https://www.dropbox.com/s/xhr8v39g6ng7ek1/Davo.exe?dl=1)
+Mírame [__Davo.exe__](https://www.dropbox.com/s/437zkza7v86vwwf/Davo.zip?dl=1)
 
-<a href="https://www.dropbox.com/s/xhr8v39g6ng7ek1/Davo.exe?dl=1" download="descargado.pdf">aki descargas</a>
+
 
 https://www.dropbox.com/s/xhr8v39g6ng7ek1/Davo.exe?dl=0
+https://www.dropbox.com/s/437zkza7v86vwwf/Davo.zip?dl=0
