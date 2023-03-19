@@ -6,6 +6,6 @@ y una línea nueva más
 
 Mírame [__Davo.exe__](https://www.dropbox.com/s/cq2qdurhdudkimp/aaa.pdf?dl=0)
 
-<a href="https://www.dropbox.com/s/xhr8v39g6ng7ek1/Davo.exe" download="descargado.pdf">aki descargas</a>
+<a href="https://www.dropbox.com/s/xhr8v39g6ng7ek1/Davo.exe?dl=1" download="descargado.pdf">aki descargas</a>
 
 https://www.dropbox.com/s/xhr8v39g6ng7ek1/Davo.exe?dl=0
