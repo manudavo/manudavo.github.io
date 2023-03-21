@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<title>Manu Davó</title>
+#Manu Davó#
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="fragment" content="!">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png" />
@@ -17,7 +17,7 @@
     
     y esto es texto normal
     
-    y otra linea de testo normal
+    y otra linea de **testo normal**
     
   </body>
   
