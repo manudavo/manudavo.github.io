@@ -1,9 +1,13 @@
 name: "site.manudavo.github"
 outputdir: "."
+output:
+  html_document:
+    includes:
+      in_header: header.html
 navbar:
   title: "Manu Davó"
   left:
     - text: "Home"
       href: index.html
-    - text: "Descargas"
-      href: descargas.html
+    - text: "Downloads"
+      href: downloads.html
