@@ -1,5 +1,5 @@
 # Manu Davó
 
-[Home](home.md)
+<!-- [Home](home.md) -->
 <!-- [About](about.md) -->
 [Downloads](downloads.md)
