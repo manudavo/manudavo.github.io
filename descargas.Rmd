@@ -1,0 +1,28 @@
+---
+title: "Descargas"
+---
+
+Aquí vas a poder descargar __Davo.exe__, un software de triage forense con el que podrás recopilar
+diversos artefactos de un sistema Windows en funcionamiento
+
+
+Descarga: [_enlace en línea__Davo.exe__](https://www.dropbox.com/s/7gmr28nebvlliix/Davo.exe?dl=1)
+
+
+En la versión 1.0. vas a poder recopilar la siguiente información:
+- Cuentas de usuarios.
+- Procesos activos.
+- Eventos.
+- Tareas programadas.
+- JumpLists.
+- Prefetch.
+- Desinstaladores de aplicaciones.
+- Historial de Powershell.
+- BAM _(Background Activity Moderator)._
+- Vistas en miniatura.
+- Papelera de reciclaje.
+- Interfaces de red.
+- Reglas del Firewall.
+- Registros del Firewall.
+- Carpeta de descargas.
+- Carpeta de recientes.

@@ -1,5 +1,0 @@
----
-title: "Downloads"
----
-
-Esta es la página de descargas
