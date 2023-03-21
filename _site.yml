@@ -1,0 +1,9 @@
+name: "site.manudavo.github"
+outputdir: "."
+navbar:
+  title: "Manu Davó"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Downloads"
+      href: downloads.html
