@@ -5,5 +5,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Downloads"
-      href: downloads.html
+    - text: "Descargas"
+      href: descargas.html
