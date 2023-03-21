@@ -1,5 +1,5 @@
 ---
-title: "Manu Davo"
+title: "Análisis Forense en Sistemas Windows"
 ---
 
 
@@ -25,4 +25,65 @@ Con este libro aprenderás:
 
 Lo puedes adquirir en Amazon haciendo click [__AQUÍ__](https://www.amazon.es)
 
-En la pestaña descargas podrás descargarte de manera gratuita el software de triage forense [__Davo__](..\descargas)
+## Tabla de Contenidos
+
+__1. Introducción__  
+    1.1. Creación del entorno de trabajo  
+    1.2. Toma de evidencias  
+    1.3. Montaje de imágenes  
+__2. Sistema Windows__  
+2.1. Variables de entorno  
+2.2. Atributos  
+2.3. Sistema de archivos NTFS  
+2.4. Análisis del Registro de Windows  
+2.5. $MFT  
+2.6. MACTimes  
+__3. Primeras Acciones__  
+3.1. Triage  
+3.2. Memoria RAM  
+3.3. Extracción de información  
+__4. Gestión de Cuentas__  
+4.1. Logs de eventos  
+4.2. Cambio de hora  
+__5. Ejecución de Aplicaciones__  
+5.1. Jump Lists  
+5.2. Prefetch  
+5.3. UserAssist  
+5.4. BAM  
+5.5. AppCompatCache  
+5.6. Amcache  
+5.7. Inicio automático  
+5.8. Tareas Programadas  
+__6. Archivos Borrados__  
+6.1. Accesos directos (.lnk)  
+6.2. Papelera de reciclaje  
+6.3. Recuperar archivos borrados de manera permanente  
+6.4. Thumbnails  
+6.5. $I30  
+6.6. Volume Shadow Copy  
+__7. Redes__  
+7.1. El Firewall  
+7.2. SRUM  
+7.3. Correo electrónico  
+7.4. Esteganografía digital  
+__8. Abrir y Mover Archivos__  
+8.1. ShellBags  
+8.2. MUICache  
+8.3. Línea de tiempo  
+8.4. Historial de actividad de Windows 10  
+8.5. $UsnJrnl  
+__9. Navegadores__  
+9.1. Descargas de archivos  
+9.2. Extensiones instaladas  
+9.3. Marcadores o Favoritos  
+9.4. Memoria Caché  
+9.5. Historial de navegación  
+9.6. Cookies  
+9.7. DNS Caché  
+9.8. Zone.Identifier  
+__10. Dispositivos Externos__  
+10.1. Acabando que es gerundio  
+
+Puedes descargarte la Tabla de Contenidos haciendo click [AQUI](https://www.dropbox.com/s/8pbbzwbu5ubuqrr/Tabla%20de%20Contenido.pdf?dl=1)
+
+En la pestaña [downloads](../downloads.html) podrás descargarte de manera gratuita el software de triage forense __Davo__.
