@@ -23,8 +23,8 @@ Con este libro aprenderás:
 - También daremos un repaso a algunas técnicas antiforense, usadas para ocultar las acciones realizadas.
 - Y bastantes cosas más.
 
-Puedes adquirir el libro en [__Amazon.es__](https://https://www.amazon.es/dp/B0BZFNVXTR) si te encuentras en España.  
-O también en [__Amazon.com__](https://https://www.amazon.com/dp/B0BZFNVXTR).
+Puedes adquirir el libro en [__Amazon.es__](https://www.amazon.es/dp/B0BZFNVXTR) si te encuentras en España.  
+O también en [__Amazon.com__](https://www.amazon.com/dp/B0BZFNVXTR).
 
 Puedes descargarte la Tabla de Contenidos haciendo click  <a href="https://t.bkit.co/l_641f5d3143f09" target="_blank" rel="noopener noreferrer">AQUÍ</a>
 
