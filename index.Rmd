@@ -23,7 +23,9 @@ Con este libro aprenderás:
 - También daremos un repaso a algunas técnicas antiforense, usadas para ocultar las acciones realizadas.
 - Y bastantes cosas más.
 
-Lo puedes adquirir en Amazon haciendo click <bold><a href="https://www.amazon.es" target="_blank">AQUÍ</a></bold>
+Puedes adquirir el libro en Amazon haciendo click <bold><a href="https://www.amazon.es" target="_blank">AQUÍ</a></bold>
+
+Puedes descargarte la Tabla de Contenidos haciendo click  <a href="https://t.bkit.co/l_641f5d3143f09" target="_blank" rel="noopener noreferrer">AQUÍ</a>
 
 ## Tabla de Contenidos
 
@@ -84,7 +86,6 @@ __9. Navegadores__
 __10. Dispositivos Externos__  
 10.1. Acabando que es gerundio  
 
-Puedes descargarte la Tabla de Contenidos haciendo click [AQUI](https://t.bkit.co/l_641f5d3143f09)
 
 En la pestaña [downloads](../downloads.html) podrás descargarte de manera gratuita el software de triage forense __Davo__.
 
