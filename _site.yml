@@ -1,12 +1,9 @@
-name: "site.manudavo.github"
+name: "manudavo"
 outputdir: "."
 output:
   html_document:
-    includes:
-      in_header: header.html
     theme: cerulean
     highlight: espresso
-    
 navbar:
   title: "Manu Davó"
   left:
@@ -14,3 +11,6 @@ navbar:
       href: index.html
     - text: "Downloads"
       href: downloads.html
+
+    
+    
