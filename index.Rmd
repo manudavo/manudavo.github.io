@@ -87,7 +87,3 @@ __10. Dispositivos Externos__
 Puedes descargarte la Tabla de Contenidos haciendo click [AQUI](https://www.dropbox.com/s/8pbbzwbu5ubuqrr/Tabla%20de%20Contenido.pdf?dl=1)
 
 En la pestaña [downloads](../downloads.html) podrás descargarte de manera gratuita el software de triage forense __Davo__.
-
-<div hidden>
-<div id="sfcrgydns374ratumgdkklnfzlr4dj7w446"></div><script type="text/javascript" src="https://counter4.optistats.ovh/private/counter.js?c=rgydns374ratumgdkklnfzlr4dj7w446&down=async" async></script><br><a href="https://www.contadorvisitasgratis.com">contador de visitas principal</a><noscript></noscript>
-</div>
