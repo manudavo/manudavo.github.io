@@ -2,6 +2,8 @@ name: "manudavo"
 outputdir: "."
 output:
   html_document:
+    includes:
+      in_header: header.html
     theme: cerulean
     highlight: espresso
 navbar:
