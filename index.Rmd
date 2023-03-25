@@ -87,3 +87,5 @@ __10. Dispositivos Externos__
 Puedes descargarte la Tabla de Contenidos haciendo click [AQUI](https://www.dropbox.com/s/8pbbzwbu5ubuqrr/Tabla%20de%20Contenido.pdf?dl=1)
 
 En la pestaña [downloads](../downloads.html) podrás descargarte de manera gratuita el software de triage forense __Davo__.
+
+<img src="https://t.bkit.co/w_641f541c3de49.gif" />

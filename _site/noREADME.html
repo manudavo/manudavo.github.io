@@ -11,12 +11,12 @@
 
 
 
-<title>Análisis Forense en Sistemas Windows</title>
+<title>noREADME</title>
 
 <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -30,7 +30,8 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link rel="shortcut icon" href="favicon.png" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -41,6 +42,16 @@
   ul.task-list{list-style: none;}
     </style>
 
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
 
 
 
@@ -252,116 +263,13 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Análisis Forense en Sistemas Windows</h1>
 
 </div>
 
 
-<p>Bienvenido a la web del libro <a
-href="https://www.amazon.es"><strong>Análisis Forense en Sistemas
-Windows</strong></a></p>
-<p>Este libro pretende ser un manual de referencia destinado a policías,
-investigadores, administradores de sistemas, estudiantes y profesionales
-de la seguridad TI. Pero no te preocupes si no estás en ninguno de estos
-colectivos, este libro va destinado, sobre todo, para gente curiosa y
-con ganas de aprender. El análisis forense permite recabar información
-de las acciones que se han llevado a cabo un sistema operativo,
-obteniendo pruebas que permitan esclarecer un incidente de seguridad o
-una acción delictiva para la cual se ha utilizado el sistema operativo
-en cuestión.</p>
-<p>Estudiaremos diferentes métodos de recopilación de datos de un
-sistema Windows, el sistema operativo más usado en ordenadores
-portátiles y equipos de escritorio. Te mostraré una parte teórica que
-nos descubra el funcionamiento interno del sistema operativo, y
-trabajaremos con muchos ejemplos prácticos que nos ayudarán a consolidar
-la teoría.</p>
-<p>Con este libro aprenderás:</p>
-<ul>
-<li>Qué rastros quedan en el sistema al ejecutar un programa, o abrir un
-simple archivo.</li>
-<li>Cómo recuperar archivos que han sido borrados de manera accidental,
-o no tan accidental.</li>
-<li>Cómo se pueden ocultar gigabytes de información en un archivo y que
-éste último no aumente de tamaño ni un solo byte, mediante los flujos de
-datos alternativos.</li>
-<li>Cómo los modos de navegación incógnito de los diferentes
-navegadores, en realidad no son tan incógnitos.</li>
-<li>Cómo analizar un correo electrónico para poder determinar su
-autenticidad.</li>
-<li>Cómo realizar una línea de tiempo donde queden reflejadas todas las
-acciones que han ocurrido en un intervalo temporal.</li>
-<li>Cómo montar máquinas virtuales con las que realizar las
-prácticas.</li>
-<li>También daremos un repaso a algunas técnicas antiforense, usadas
-para ocultar las acciones realizadas.</li>
-<li>Y bastantes cosas más.</li>
-</ul>
-<p>Lo puedes adquirir en Amazon haciendo click
-<bold><a href="https://www.amazon.es" target="_blank">AQUÍ</a></bold></p>
-<div id="tabla-de-contenidos" class="section level2">
-<h2>Tabla de Contenidos</h2>
-<p><strong>1. Introducción</strong><br />
-1.1. Creación del entorno de trabajo<br />
-1.2. Toma de evidencias<br />
-1.3. Montaje de imágenes<br />
-<strong>2. Sistema Windows</strong><br />
-2.1. Variables de entorno<br />
-2.2. Atributos<br />
-2.3. Sistema de archivos NTFS<br />
-2.4. Análisis del Registro de Windows<br />
-2.5. $MFT<br />
-2.6. MACTimes<br />
-<strong>3. Primeras Acciones</strong><br />
-3.1. Triage<br />
-3.2. Memoria RAM<br />
-3.3. Extracción de información<br />
-<strong>4. Gestión de Cuentas</strong><br />
-4.1. Logs de eventos<br />
-4.2. Cambio de hora<br />
-<strong>5. Ejecución de Aplicaciones</strong><br />
-5.1. Jump Lists<br />
-5.2. Prefetch<br />
-5.3. UserAssist<br />
-5.4. BAM<br />
-5.5. AppCompatCache<br />
-5.6. Amcache<br />
-5.7. Inicio automático<br />
-5.8. Tareas Programadas<br />
-<strong>6. Archivos Borrados</strong><br />
-6.1. Accesos directos (.lnk)<br />
-6.2. Papelera de reciclaje<br />
-6.3. Recuperar archivos borrados de manera permanente<br />
-6.4. Thumbnails<br />
-6.5. $I30<br />
-6.6. Volume Shadow Copy<br />
-<strong>7. Redes</strong><br />
-7.1. El Firewall<br />
-7.2. SRUM<br />
-7.3. Correo electrónico<br />
-7.4. Esteganografía digital<br />
-<strong>8. Abrir y Mover Archivos</strong><br />
-8.1. ShellBags<br />
-8.2. MUICache<br />
-8.3. Línea de tiempo<br />
-8.4. Historial de actividad de Windows 10<br />
-8.5. $UsnJrnl<br />
-<strong>9. Navegadores</strong><br />
-9.1. Descargas de archivos<br />
-9.2. Extensiones instaladas<br />
-9.3. Marcadores o Favoritos<br />
-9.4. Memoria Caché<br />
-9.5. Historial de navegación<br />
-9.6. Cookies<br />
-9.7. DNS Caché<br />
-9.8. Zone.Identifier<br />
-<strong>10. Dispositivos Externos</strong><br />
-10.1. Acabando que es gerundio</p>
-<p>Puedes descargarte la Tabla de Contenidos haciendo click <a
-href="https://www.dropbox.com/s/8pbbzwbu5ubuqrr/Tabla%20de%20Contenido.pdf?dl=1">AQUI</a></p>
-<p>En la pestaña <a href="../downloads.html">downloads</a> podrás
-descargarte de manera gratuita el software de triage forense
-<strong>Davo</strong>.</p>
-<p><img src="https://t.bkit.co/w_641f541c3de49.gif" /></p>
+<div id="mi-web" class="section level1">
+<h1>Mi Web</h1>
+<p>In Processsssss</p>
 </div>
 
 
