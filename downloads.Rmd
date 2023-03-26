@@ -5,7 +5,6 @@ title: "Descargas"
 Aquí vas a poder descargar __Davo.exe__, un software de triage forense con el que podrás recopilar
 diversos artefactos de un sistema Windows en funcionamiento
 
-Descarga: [__Davo.exe__](https://t.bkit.co/l_641f52fe620ec)
 Descarga: <a href="https://t.bkit.co/l_641f52fe620ec" target="_blank" rel="noopener noreferrer"><b>Davo.exe</b></a>
 
 
