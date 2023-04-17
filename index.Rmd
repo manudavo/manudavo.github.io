@@ -31,9 +31,9 @@ También puedes descargarte en Pdf la <a href="https://t.bkit.co/l_641f5d3143f09
 ## Tabla de Contenidos
 
 __1. Introducción__  
-    1.1. Creación del entorno de trabajo  
-    1.2. Toma de evidencias  
-    1.3. Montaje de imágenes  
+1.1. Creación del entorno de trabajo  
+1.2. Toma de evidencias  
+1.3. Montaje de imágenes  
 __2. Sistema Windows__  
 2.1. Variables de entorno  
 2.2. Atributos  
@@ -88,6 +88,6 @@ __10. Dispositivos Externos__
 10.1. Acabando que es gerundio  
 
 
-En la pestaña [downloads](../downloads.html) podrás descargarte de manera gratuita el software de triage forense __Davo__.
+En la pestaña [downloads](../downloads.html) podrás descargarte de manera gratuita el software de triaje forense __Davo__.
 
 <img src="https://t.bkit.co/w_641f541c3de49.gif" />
