@@ -5,8 +5,13 @@ title: "Descargas"
 Aquí vas a poder descargar __Davo.exe__, un software de triaje forense con el que podrás recopilar
 diversos artefactos de un sistema Windows en funcionamiento
 
-Descarga: <a href="https://t.bkit.co/l_641f52fe620ec" target="_blank" rel="noopener noreferrer"><b>Davo.exe</b></a>
+Descarga: <a href="https://t.bkit.co/l_641f52fe620ec" target="_blank" rel="noopener noreferrer"><b>Davo.exe</b></a>  
 
+
+|   MD5...9EE20076FA2ED9B0C538DBC259EEE82A   |
+|---|
+|  SHA1...DCCDFBAE2EEDC3F8640609EB53ECFED5AEE9E3A2   |
+| SHA256...4272321B4343C871B29B3CECE7A0FA4B2C1AA2E3ED1A06952A2753587B5CB498 |
 
 En la versión 1.0. vas a poder recopilar la siguiente información:
 

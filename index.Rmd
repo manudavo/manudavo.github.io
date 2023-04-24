@@ -42,7 +42,7 @@ __2. Sistema Windows__
 2.5. $MFT  
 2.6. MACTimes  
 __3. Primeras Acciones__  
-3.1. Triage  
+3.1. Triaje  
 3.2. Memoria RAM  
 3.3. Extracción de información  
 __4. Gestión de Cuentas__  
