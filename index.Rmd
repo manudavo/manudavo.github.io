@@ -41,7 +41,7 @@ __2. Sistema Windows__
 2.4. Análisis del Registro de Windows  
 2.5. $MFT  
 2.6. MACTimes  
-__3. Primeras Acciones__  
+__3. Primeras Pasos__  
 3.1. Triaje  
 3.2. Memoria RAM  
 3.3. Extracción de información  
@@ -65,7 +65,7 @@ __6. Archivos Borrados__
 6.5. $I30  
 6.6. Volume Shadow Copy  
 __7. Redes__  
-7.1. El Firewall  
+7.1. Firewall  
 7.2. SRUM  
 7.3. Correo electrónico  
 7.4. Esteganografía digital  
