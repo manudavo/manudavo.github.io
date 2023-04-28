@@ -41,7 +41,7 @@ __2. Sistema Windows__
 2.4. Análisis del Registro de Windows  
 2.5. $MFT  
 2.6. MACTimes  
-__3. Primeras Pasos__  
+__3. Primeros Pasos__  
 3.1. Triaje  
 3.2. Memoria RAM  
 3.3. Extracción de información  
