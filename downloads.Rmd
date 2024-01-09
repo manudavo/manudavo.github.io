@@ -12,7 +12,7 @@ table, th, td {
 Davo.exe es un software de triaje forense con el que podrás recopilar
 diversos artefactos de un sistema Windows en funcionamiento
 
-#### Descargar: <a href="https://t.bkit.co/l_641f52fe620ec" target="_blank" rel="noopener noreferrer"><b>Davo.exe</b></a> 
+#### Descargar: <a href="https://t.bkit.co/l_641f52fe620ec" target="_blank" rel="noopener noreferrer"><b>Davo.exe</b></a> Versión 1.0.
 
 <table  >
 <tr>  
