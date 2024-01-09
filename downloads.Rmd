@@ -8,10 +8,11 @@ table, th, td {
 }
 </style>
 
-Aquí vas a poder descargar __Davo.exe__, un software de triaje forense con el que podrás recopilar
+## - __**Davo.exe**__  
+Davo.exe es un software de triaje forense con el que podrás recopilar
 diversos artefactos de un sistema Windows en funcionamiento
 
-#### Descargar: <a href="https://t.bkit.co/l_641f52fe620ec" target="_blank" rel="noopener noreferrer"><b>Davo.exe</b></a> Versión 1.0.  
+#### Descargar: <a href="https://t.bkit.co/l_641f52fe620ec" target="_blank" rel="noopener noreferrer"><b>Davo.exe</b></a> 
 
 <table  >
 <tr>  
@@ -47,3 +48,22 @@ En la versión 1.0. vas a poder recopilar la siguiente información:
 * Carpeta de descargas.
 * Carpeta de recientes.
 
+## - __**WhereIsMouse**__  
+WhereIsMouse.exe es una aplicación para Windows que nos muestra las coordenadas del ratón en el escritorio en tiempo real.
+
+#### Descargar: <a  href="https://www.dropbox.com/scl/fi/hvsrfk7ccvpsrxkm6mme8/WhereIsMouse.exe?rlkey=oba3jllj8v4k0jxdkpday6w2x&dl=1" target="_blank"   rel="noopener noreferrer"><b>WhereIsMouse.exe</b></a> Versión 1.0.  
+
+<table  >
+<tr>  
+<td>MD5</td><td>BE9404429FB54F8FD6D05A96D6848F1F</td>  
+</tr>  
+
+<tr> 
+<td>SHA1</td><td>E34F4DDB1BA84C334C477BAE200FB28C074A591F</td>
+</tr>
+
+<tr>
+<td>SHA256</td><td>1F8CE27C431560ED62A31998C8D12FB0C6A660516123BC656904A8EEEC45E8A6</td>
+</tr>  
+</table>    
+</br>
