@@ -26,7 +26,7 @@ Con este libro aprenderás:
 Puedes adquirir el libro en [__Amazon.es__](https://www.amazon.es/dp/B0BZFNVXTR) si te encuentras en España.  
 O también en [__Amazon.com__](https://www.amazon.com/dp/B0BZFNVXTR).
 
-También puedes descargarte en Pdf la <a href="https://www.dropbox.com/scl/fi/oqvlw985fkfg6jjaszhwd/Tabla-de-contenido.pdf?rlkey=i8jhdn25ftycc0rv4vx4anzo7&dl=0" target="_blank" rel="noopener noreferrer"><b>Tabla de Contenidos</b></a>
+También puedes descargarte en Pdf la <a href="https://www.dropbox.com/scl/fi/oqvlw985fkfg6jjaszhwd/Tabla-de-contenido.pdf?rlkey=i8jhdn25ftycc0rv4vx4anzo7&dl=1" target="_blank" rel="noopener noreferrer"><b>Tabla de Contenidos</b></a>
 
 ## Tabla de Contenidos
 
@@ -50,7 +50,7 @@ __4. Gestión de Cuentas__
 4.2. Cambio de hora  
 __5. Ejecución de Aplicaciones__  
 5.1. Jump Lists  
-<a href=https://www.dropbox.com/scl/fi/ley2wpsacy1c5qk52e1uq/5.2.Prefetch.pdf?rlkey=r8cwd4csuvrhi96h57ud46zef&dl=0" target="_blank" rel="noopener noreferr"><b>5.2. Prefetch................................(gratuito)</b></a>  
+<a href=https://www.dropbox.com/scl/fi/ley2wpsacy1c5qk52e1uq/5.2.Prefetch.pdf?rlkey=r8cwd4csuvrhi96h57ud46zef&dl=1" target="_blank" rel="noopener noreferr"><b>5.2. Prefetch................................(gratuito)</b></a>  
 5.3. UserAssist  
 5.4. BAM  
 5.5. AppCompatCache  
@@ -63,14 +63,14 @@ __6. Archivos Borrados__
 6.3. Recuperar archivos borrados de manera permanente  
 6.4. Thumbnails  
 6.5. $I30  
-<a href="https://www.dropbox.com/scl/fi/q08xbepie1s094l7chbeh/6.6.VolumeShadowCopy.pdf?rlkey=qvyf0r9b4ro83ngmk4b0mcjvh&dl=0"  target="_blank" rel="noopener noreferr"><b>   6.6. Volume Shadow Copy...............(gratuito)</b></a>  
+<a href="https://www.dropbox.com/scl/fi/q08xbepie1s094l7chbeh/6.6.VolumeShadowCopy.pdf?rlkey=qvyf0r9b4ro83ngmk4b0mcjvh&dl=1"  target="_blank" rel="noopener noreferr"><b>   6.6. Volume Shadow Copy...............(gratuito)</b></a>  
 __7. Redes__  
 7.1. Firewall  
 7.2. SRUM  
 7.3. Correo electrónico  
 7.4. Esteganografía digital  
 __8. Abrir y Mover Archivos__  
-<a href="https://www.dropbox.com/scl/fi/bjfcn8ts817bqdwea098e/8.1.ShellBags.pdf?rlkey=cigztxf636po6kq19n1q96s8t&dl=0" target="_blank" rel="noopener noreferr"><b>8.1. ShellBags.................................(gratuito)</b></a>  
+<a href="https://www.dropbox.com/scl/fi/bjfcn8ts817bqdwea098e/8.1.ShellBags.pdf?rlkey=cigztxf636po6kq19n1q96s8t&dl=1" target="_blank" rel="noopener noreferr"><b>8.1. ShellBags.................................(gratuito)</b></a>  
 8.2. MUICache  
 8.3. Línea de tiempo  
 8.4. Historial de actividad de Windows 10  
