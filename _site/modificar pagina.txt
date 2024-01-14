@@ -1,0 +1,14 @@
+
+
+en consola
+rmarkdown::render_site()
+
+copiar lo generado en la carpeta y pegarlo en carpeta principal
+
+pasamos a terminal 
+git add .
+git add -A
+git commit -m "mensaje"
+git push origin master
+
+
